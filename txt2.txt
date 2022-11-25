@@ -1,3 +1,9 @@
 1- 2
 
+
 test line from web after merge
+
+
+test line from local
+
+line from bug2
