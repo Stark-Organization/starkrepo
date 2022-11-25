@@ -1,3 +1,7 @@
 1- 2
 
+<<<<<<< HEAD
 test line from local
+=======
+line from bug2
+>>>>>>> fa78b18dc93b100ea3ba48248e96ed019255a002
